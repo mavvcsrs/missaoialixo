@@ -12,3 +12,12 @@ alternativas:[
 ]
 }
 ]
+const perguntas = [ //abre lista de perguntas
+     { //abre objeto de pergunta
+    enunciado: “Pergunta 1”,
+    alternativas: [
+    "Alternativa 1",
+    "Alternativa 2"
+    ]
+    } //fecha objeto de pergunta
+    ] //fecha lista de perguntas
